@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsPedro231
-- 👀 I’m interested in ...
+- 👀 I’m interested in new technologies, python programming, and cryptocurrencies.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on almost anything
+- 💞️ I’m looking to collaborate on new cryptocurrencies, and game projects.
 - 📫 How to reach me -> phfaraco@gmail.com
 
 <!---
