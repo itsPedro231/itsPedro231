@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsPedro231
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning python and kotlin for android development
+- 🌱 I’m currently learning python and Flutter
 - 📫 How to reach me -> phfaraco@gmail.com
 
 <!---
